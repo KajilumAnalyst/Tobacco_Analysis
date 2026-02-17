@@ -1,0 +1,5 @@
+product_category,report_count,avg_health_issues,avg_product_issues,severe_cases
+Vaping,8,2.12,0.75,2
+Cigarette,7,1.86,2.57,1
+"Oral Nicotine",6,7.17,0.5,2
+Cigar,1,2,0,0

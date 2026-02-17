@@ -1,0 +1,5 @@
+severity_level,report_count,product_types
+Severe,5,"Oral,Traditional,Vaping"
+Moderate,1,Traditional
+Minor,11,"Oral,Traditional,Vaping"
+"No Health Issues",5,"Traditional,Vaping"
